@@ -13,4 +13,4 @@ add login -222222
 
 55555555
 
-666-locols
+666-remote
